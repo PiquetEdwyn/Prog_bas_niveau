@@ -1,0 +1,26 @@
+LOSC
+24
+LANDREAU Mickael 1
+MOUKO Barel 16
+OUKIDJA Alexandre 30
+DEBUCHY Mathieu 2
+VANDAM Jerry 3
+SOUARE Pape_N'Diaye 6
+ROZEHNAL David 14
+EMERSON Da_Conceicao 15
+BERIA Franck 18
+CHEDJOU Aurelien 22
+RAMI Adil 23
+BALMONT Florent 4
+GUEYE Idrissa_Gana 5
+CABAYE Yohan 7
+OBRANIAK Ludovic 10
+SOUQUET Arnaud 21
+MAVUBA Rio 24
+HAZARD Eden 26
+DUMONT Stephane 29
+SOW Moussa 8
+DE_MELO Tulio 9
+BASEYA Cedric 12
+FRAU Pierre-Alain 17
+GERVAIS Yao_Kouassi 27
