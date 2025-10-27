@@ -1,2 +1,3 @@
-# Prog_bas_niveau
-Quelques TP de programmation bas niveau en C. Ces TP ont été réalisé durant ma première année de BUT informatique
+# C
+
+### Dans ce dépôt se trouvent quelques TP que j'ai réalisé durant ma première année de BUT informatique. Ici, l'objectif était d'explorer des notions un peu plus poussées que les bases en C, notamment les entrées et sorties, la gestion d'erreur, l'allocation dynamique, etc... 
